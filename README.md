@@ -2,4 +2,4 @@
 
 A new start~
 
-Learn Git and GitHub, better meet new people! Connetions!
+Learn Git and GitHub, better meet new people! Connections!
